@@ -1,0 +1,21 @@
+Copyright (C) 2018 The Linux Kernel Organization and contributors.
+
+This kernel is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation; version 2 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License version 2 for more
+details.
+
+The complete source code for the Linux kernel is available at
+https://www.kernel.org. The BBRplus modifications are derived from the
+community projects listed in README.md (cx9208/bbrplus, UJX6N/bbrplus).
+
+This repository redistributes a prebuilt binary for archival and installation
+convenience on the maintainer's own devices. It is provided "as-is" with no
+support. On written request from the copyright holders it will be removed.
+
+A full copy of the GNU General Public License v2 is available at
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
